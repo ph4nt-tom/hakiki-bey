@@ -71,4 +71,4 @@ client.on('message', msg => {
     msg.channel.sendMessage("gülümseyen bıyıklarımın tatlı nedeni günaydın")
   }
 });
-client.login('NjA4MzY4MjQ0NjEyNjYxMjU4.XUnLmQ.xrW6mZOM_lNDz9uWj6amVbofZTc');
+client.login('process.env.bottoken');
